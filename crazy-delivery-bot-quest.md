@@ -1,2 +1,5 @@
 # 24.08.2022
-No personal data is collected.
+In this app Firebase Analytics collected your personal data: https://firebase.google.com/support/privacy
+
+It makes only for marketing, collect not-personalized data.
+
